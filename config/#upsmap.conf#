@@ -1,0 +1,5 @@
+[{:method "get-battery" :start 2  :end 4}
+ {:method "get-status"  :start 4  :end 6}
+ {:method "get-voltage" :start 6  :end 8}
+ {:method "get-temp"    :start 8  :end 10}
+ {:method "get-info"    :start 10 :end 12}]             
